@@ -78,5 +78,6 @@ li {
     
     .video {
       font-size: 22px;
-      color: white;
+      color: rgb(71, 211, 29);
+      font-weight: bold;
     }
