@@ -95,4 +95,13 @@ li {
       font-size: 22px;
       color: white;
       font-weight: bold;
+      
+    }
+    .thumbnail {
+    width: 320px;
+    height: 170px;
+    border: 0px solid #ccc;
+    background: black;
+    margin:auto;
+    padding: 15px 10px;
     }
