@@ -7,9 +7,9 @@ body {
     background: var(--bg);
     color: var(--white);
     font-family: helvetica;
-  } {
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; 
-  }
+  } 
+    {font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; 
+    }
 
 li {
     list-style: circle;
@@ -56,8 +56,8 @@ li {
       }
     }
     
-     .feature      position: relative;
-      border: 1px solid {"#000"}; 
+     .feature{     position: relative;
+      border: 1px solid {"#000"};}
     
     .circle {
       height: 2.5rem;
@@ -73,4 +73,9 @@ li {
     }
     html, body {
       height: 100%;
+    }
+
+    
+    .video{
+      font-size: 22px;
     }
