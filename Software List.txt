@@ -1,0 +1,30 @@
+OS list
+
+x64 Windows Systems
+
+Windows 11 
+Windows 10 
+Tiny10 X
+Tiny10 21h2 X
+Windows 8.1 X
+Windows 8 X
+Windows 7 X
+Windows Vista X
+Windows XP X
+
+
+x86 Windows Systems
+
+Windows 10
+Windows 8.1
+Windows 8
+Windows 7
+Windows Vista
+Windows XP
+Windows 2000
+Windows ME
+Windows 98 SE
+Windows 98
+Windows 95
+
+More stuff to come soon!
